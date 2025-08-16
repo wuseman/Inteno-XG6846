@@ -32,11 +32,12 @@ speed-sensing and crossover correction. Port speed/duplex configurable 10/100/10
 
 Internet Providers password was good, but not good enough 
 
+```
 Telia:
 
 Username......: support
 Password......: x3faqmiup3fe
- 
+
 ## Firmware
 
 ### Naming
